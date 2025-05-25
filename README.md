@@ -1,15 +1,15 @@
 <!-- Profile README -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+%40ykmss+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Full-stack+Developer+%7C+Open-source+Enthusiast;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+%ykmss+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Full-stack+Developer+%7C+Open-source+Enthusiast;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 ---
-### 🌟 About Me
-- 👨‍💻 **Passionate about coding** and creating impactful projects.
+🌟 About Me
+- 👨‍💻 Passionate about coding and creating impactful projects.
 - 🌱 Currently learning **[Your Current Learning Focus]**.
 - 💬 Ask me about **Web Development, Backend, or Open Source**.
 - ⚡ Fun fact: I love **[Coding & Coffee]**!
 ---
-### 💻 Tech Stack
+💻 Tech Stack
 <div align="center">
 <!-- Icons for technologies -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
 ---
-### 📈 GitHub Stats
+📈 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ykmss&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykmss&theme=radical" alt="GitHub Streak" />
@@ -28,7 +28,7 @@
 </div>
 
 
-### 📫 Connect with Me
+📫 Connect with Me
 <div align="center">
 <a href="https://linkedin.com/in/ykmss"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/ykmss"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -36,7 +36,7 @@
 <a href="https://ykmss.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 ---
-### 🎨 Fun Widgets
+🎨 Fun Widgets
 <div align="center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ykmss&theme=radical" alt="Activity Graph" />
 <img src="https://github-widgetbox.vercel.app/api/profile?username=ykmss&data=followers,repositories,stars&theme=radical" alt="GitHub Widget" />
