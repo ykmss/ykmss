@@ -7,7 +7,7 @@
 - 👨‍💻 **Passionate about coding** and creating impactful projects.
 - 🌱 Currently learning **[Your Current Learning Focus]**.
 - 💬 Ask me about **Web Development, Backend, or Open Source**.
-- ⚡ Fun fact: I love **[Your Hobby]**!
+- ⚡ Fun fact: I love **[Coding & Coffee]**!
 ---
 ### 💻 Tech Stack
 <div align="center">
@@ -26,12 +26,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykmss&theme=radical" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykmss&layout=compact&theme=radical" alt="Top Languages" />
 </div>
----
-### 🏆 Achievements
-- 🔥 **Starred Projects**: [Project Name 1](#), [Project Name 2](#)
-- 🏅 **Hackathons Won**: [Hackathon Name 1](#), [Hackathon Name 2](#)
-- 📜 **Certificates**: [Certification 1](#), [Certification 2](#)
----
+
+
 ### 📫 Connect with Me
 <div align="center">
 <a href="https://linkedin.com/in/ykmss"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
